@@ -1,5 +1,8 @@
 Rencana kedepan
 - Belajar Python
- * menggunakan framework
+ * Django
+-Php 
+ * Laravel
+ * Codeigniter
 - Belajar Bahasa inggris
 - Belajar Public Speaking
