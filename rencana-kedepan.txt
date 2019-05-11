@@ -1,4 +1,5 @@
 Rencana kedepan
 - Belajar Python
+ * menggunakan framework
 - Belajar Bahasa inggris
 - Belajar Public Speaking
