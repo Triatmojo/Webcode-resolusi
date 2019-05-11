@@ -1,7 +1,6 @@
 Rencana kedepan
 - Belajar Python
  * Django
- * flask
 - Php
  * Laravel
 - Belajar Bahasa inggris
