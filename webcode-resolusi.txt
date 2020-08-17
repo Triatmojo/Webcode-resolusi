@@ -1,5 +1,0 @@
-Webcode-repository
-- Konsisten dalam belajar pemrograman
-- Membuat Aplikasi Toko Online
-- Konsisten dalam menuntut ilmu
-- Belajar Menggunakan Operating system Linux
