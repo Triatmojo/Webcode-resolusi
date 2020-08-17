@@ -1,7 +1,14 @@
-Rencana kedepan
-- Belajar Python
- * Django
+Future Plaanning
 - Php
  * Laravel
-- Belajar Bahasa inggris
-- Belajar Public Speaking
+ * Codeignter
+- javascript 
+  * MongoDb
+  * NodeJs
+  * ReactJs
+- Visual Design
+ * UI/UX
+- Learn Inggris Language
+- Learn Public Speaking
+
+
