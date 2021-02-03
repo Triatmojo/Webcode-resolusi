@@ -1,4 +1,4 @@
-Future Plaanning
+Future Planning
 - Php
  * Laravel
  * Codeignter
